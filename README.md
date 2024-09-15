@@ -1,22 +1,20 @@
-## Hi there - please bear with me while I setup the GitHub profile page 👋
-
 <!--
 Bring in
 * Linkedin profile https://www.linkedin.com/in/paulbrowne/
 * Host Videos and powerpoint
 * https://github.com/paulbrowne-irl/blog
-* Link Blow 
-Ideas
-Blog 
-https://www.linkedin.com/pulse/how-glitz-up-your-github-profile-advance-career-github-efyxc/
-https://github.com/LadyKerr/profilereadme
+* Link Blog
 
+Idea
+* https://www.linkedin.com/pulse/how-glitz-up-your-github-profile-advance-career-github-efyxc/
+* https://github.com/LadyKerr/profilereadme
+* https://github.com/kautukkundan/Awesome-Profile-README-templates
 
 -->
 
 ![Banner Image](images/header.jpg)
 
-## About Me 🚀
+## About Me (in progress) 🚀
 
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
