@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there - please bear with me while I setup the GitHub profile page 👋
 
 <!--
 **paulbrowne-irl/paulbrowne-irl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
