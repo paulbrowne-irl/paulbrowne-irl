@@ -14,8 +14,6 @@ https://github.com/LadyKerr/profilereadme
 
 -->
 
-# Hi there, I'm [Your Name]! 👋
-
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
