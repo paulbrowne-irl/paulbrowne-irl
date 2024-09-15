@@ -1,5 +1,19 @@
 ## Hi there - please bear with me while I setup the GitHub profile page 👋
 
+<!--
+Bring in
+* Linkedin profile https://www.linkedin.com/in/paulbrowne/
+* Host Videos and powerpoint
+* https://github.com/paulbrowne-irl/blog
+* Link Blow 
+Ideas
+Blog 
+https://www.linkedin.com/pulse/how-glitz-up-your-github-profile-advance-career-github-efyxc/
+https://github.com/LadyKerr/profilereadme
+
+
+-->
+
 # Hi there, I'm [Your Name]! 👋
 
 ![Banner Image](your_banner_image_url_here)
