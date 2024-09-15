@@ -14,7 +14,7 @@ https://github.com/LadyKerr/profilereadme
 
 -->
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](images/header.jpg)
 
 ## About Me 🚀
 
