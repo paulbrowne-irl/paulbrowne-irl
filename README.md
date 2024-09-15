@@ -11,7 +11,7 @@ Idea
 * https://www.linkedin.com/pulse/how-glitz-up-your-github-profile-advance-career-github-efyxc/
 * https://github.com/LadyKerr/profilereadme
 * https://github.com/kautukkundan/Awesome-Profile-README-templates
-
+* https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/setting-up-your-repository/facilitating-quick-creation-and-resumption-of-codespaces
 -->
 
 <!--
