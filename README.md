@@ -2,7 +2,8 @@
 
 <!--
 Bring in
-* Linkedin profile https://www.linkedin.com/in/paulbrowne/
+* Linkedin to profile https://www.linkedin.com/in/paulbrowne/
+* link from LinkedIn profile to here
 * Host Videos and powerpoint
 * https://github.com/paulbrowne-irl/blog
 * Link Blog
