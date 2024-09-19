@@ -5,8 +5,7 @@ Bring in
 * Linkedin to profile https://www.linkedin.com/in/paulbrowne/
 * link from LinkedIn profile to here
 * Host Videos and powerpoint
-* https://github.com/paulbrowne-irl/blog
-* Link Blog
+* Link Blog -https://paulbrowne-irl.github.io/blog/
 
 Idea
 * https://www.linkedin.com/pulse/how-glitz-up-your-github-profile-advance-career-github-efyxc/
