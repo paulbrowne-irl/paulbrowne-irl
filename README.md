@@ -1,5 +1,8 @@
 ![Banner Image](images/header.jpg)
 
+<!-- -->
+Linked In Profile: https://www.linkedin.com/in/paulbrowne/
+
 <!-- Videos -->
 ## AI and Product Management Series
 
