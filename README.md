@@ -1,37 +1,28 @@
 ![Banner Image](images/header.jpg)
 
-<!-- -->
-Linked In Profile: https://www.linkedin.com/in/paulbrowne/
 
 <!-- Videos -->
 ## AI and Product Management Series
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Excerpts from talks on AI on Product Management and related topics. Click on image to play video.
 
 | **AI and Product Management- Bio an Intro** | **How AI needs Product Management (and Vice Versa)** | **A practical example of this in action**  | **Product Demo**  | **Takeaways and Lessons Learned**|
 |---|---|---|---|---|
 | [![Watch the video - part 1](video_thumbnails/Thumbnail_TUDublin_Product_Management_1_AI_Intro_Bio_small.png)](https://drive.google.com/uc?id=10ycGZyYs767KSJoyBVNpscTn7o_-l8wa)  | [![Watch the video - part 2](video_thumbnails/Thumbnail_TUDublin_Product_Management_2_AI_and_Product_Management_small.png)](https://drive.google.com/file/d/11-bg-eNnv27FOWT6UY4ZX9E_sN-bVUro)  | [![Watch the video - part 3](video_thumbnails/Thumbnail_TUDublin_Product_Management_3_Practical_Example_Intro_small.png)](https://drive.google.com/file/d/1100avI5N7NGd7vnuypUKKOyWqUvIkn6g )   | [![Watch the video - part 4](video_thumbnails/Thumbnail_TUDublin_Product_Management_4_Practical_Example_Demo_small.png)](https://drive.google.com/file/d/114Y0z8BkjQbEb9GeKOkBH_OLWkzKvsv2)  |  [![Watch the video - part 5](video_thumbnails/Thumbnail_TUDublin_Product_Management_5_Takewaways_small.png)](https://drive.google.com/file/d/10xxVwDnjC40nbvhZ8CrSvhK5DJmUEI9H) |
 
+## Most Recent Book - AI and Business Rules for Excel Power Users
+
+<a href="https://www.packtpub.com/product/ai-and-business-rule-engines-for-excel-power-users/9781804619544"><img src="https://m.media-amazon.com/images/I/511zmj7OcXL._SX403_BO1,204,203,200_.jpg" alt="AI and Business Rules for Excel Power Users" height="256px" align="right"></a>
+
+This GibHub code repository for [AI and Business Rules for Excel Power Users](https://www.packtpub.com/product/ai-and-business-rule-engines-for-excel-power-users/9781804619544), published by Packt, can be found here: https://github.com/PacktPublishing/AI-and-Business-Rules-for-Excel-Power-Users?tab=readme-ov-file
+
+## Other Highlighted projects
+
+Some Other Highlighted Projects
+
 <!--
 Bring in
 * Linkedin to profile https://www.linkedin.com/in/paulbrowne/
-* link from LinkedIn profile to here
 * Host Videos and powerpoint
 * Link Blog -https://paulbrowne-irl.github.io/blog/
 
