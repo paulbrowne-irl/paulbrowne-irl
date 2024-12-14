@@ -1,5 +1,11 @@
 ![Banner Image](images/header.jpg)
 
+## Most Recent Book - AI and Business Rules for Excel Power Users
+
+<a href="https://www.packtpub.com/product/ai-and-business-rule-engines-for-excel-power-users/9781804619544"><img src="https://m.media-amazon.com/images/I/511zmj7OcXL._SX403_BO1,204,203,200_.jpg" alt="AI and Business Rules for Excel Power Users" height="128px" align="right"></a>
+
+This GibHub code repository for [AI and Business Rules for Excel Power Users](https://www.packtpub.com/product/ai-and-business-rule-engines-for-excel-power-users/9781804619544), published by Packt, [can be found here](https://github.com/PacktPublishing/AI-and-Business-Rules-for-Excel-Power-Users?tab=readme-ov-file)
+
 
 <!-- Videos -->
 ## AI and Product Management Series
@@ -12,11 +18,6 @@ Excerpts from talks on AI on Product Management and related topics. Click on ima
 
 
 
-## Most Recent Book - AI and Business Rules for Excel Power Users
-
-<a href="https://www.packtpub.com/product/ai-and-business-rule-engines-for-excel-power-users/9781804619544"><img src="https://m.media-amazon.com/images/I/511zmj7OcXL._SX403_BO1,204,203,200_.jpg" alt="AI and Business Rules for Excel Power Users" height="128px" align="right"></a>
-
-This GibHub code repository for [AI and Business Rules for Excel Power Users](https://www.packtpub.com/product/ai-and-business-rule-engines-for-excel-power-users/9781804619544), published by Packt, [can be found here](https://github.com/PacktPublishing/AI-and-Business-Rules-for-Excel-Power-Users?tab=readme-ov-file)
 
 ## Other Highlighted projects
 
