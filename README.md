@@ -16,19 +16,20 @@ Excerpts from talks on AI on Product Management and related topics. Click on ima
 |---|---|---|---|---|
 | [![Watch the video - part 1](video_thumbnails/Thumbnail_TUDublin_Product_Management_1_AI_Intro_Bio_small.png)](https://drive.google.com/uc?id=10ycGZyYs767KSJoyBVNpscTn7o_-l8wa)  | [![Watch the video - part 2](video_thumbnails/Thumbnail_TUDublin_Product_Management_2_AI_and_Product_Management_small.png)](https://drive.google.com/file/d/11-bg-eNnv27FOWT6UY4ZX9E_sN-bVUro)  | [![Watch the video - part 3](video_thumbnails/Thumbnail_TUDublin_Product_Management_3_Practical_Example_Intro_small.png)](https://drive.google.com/file/d/1100avI5N7NGd7vnuypUKKOyWqUvIkn6g )   | [![Watch the video - part 4](video_thumbnails/Thumbnail_TUDublin_Product_Management_4_Practical_Example_Demo_small.png)](https://drive.google.com/file/d/114Y0z8BkjQbEb9GeKOkBH_OLWkzKvsv2)  |  [![Watch the video - part 5](video_thumbnails/Thumbnail_TUDublin_Product_Management_5_Takewaways_small.png)](https://drive.google.com/file/d/10xxVwDnjC40nbvhZ8CrSvhK5DJmUEI9H) |
 
-
+<br/>
 ## Other AI Presentations
 [Public PDF - Scoring 1000 Irish Companies Cyber Readiness using AI and Natural Language Processing](https://drive.google.com/file/d/1iCZAC-b9lOSB0BngH1FHhEbwVYdt8Nxo)
+<br/>
 
 ## Highlighted projects
 
 Click on the _Pinned_ Projects below to view more details.
 <ul>
-<li>__Packt Publishing__ - the AI and Business Rules for Excel examples to support the most recent book.</li>
-<li>__Red Piranha__ - AI for financial decision making (e.g. loans or buisness grant applications), the focus of the first book.</li>
-<li>__AI Emails and Documents__ - automatic drafting of emails for a helpdesk (e.g. on Cyber grants)</li>
-<li>__Smart Document Analysis__ - scoring of thousands of clients based on hundreds of thousands of documents (e.g. for Cyber Maturity - see above presentation).</li>
-<li>__EAR Mailbox__ - scripts for extracting data and statistic from a shared enterprise mailbox (e.g. respond to client client queries)</li>
+<li> __Packt Publishing__ - the AI and Business Rules for Excel examples to support the most recent book.</li>
+<li> __Red Piranha__ - AI for financial decision making (e.g. loans or buisness grant applications), the focus of the first book.</li>
+<li> __AI Emails and Documents__ - automatic drafting of emails for a helpdesk (e.g. on Cyber grants)</li>
+<li> __Smart Document Analysis__ - scoring of thousands of clients based on hundreds of thousands of documents (e.g. for Cyber Maturity - see above presentation).</li>
+<li> __EAR Mailbox__ - scripts for extracting data and statistic from a shared enterprise mailbox (e.g. respond to client client queries)</li>
   
 </ul>
 
