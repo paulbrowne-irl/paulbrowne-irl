@@ -18,7 +18,7 @@ Excerpts from talks on AI on Product Management and related topics. Click on ima
 
 
 ## AI and Product Management Series
-[Link to presentation](https://drive.google.com/file/d/14mwRd_bD6VsBBcOV8CO2dnSPU250uBL5)
+[Link to presentation](https://drive.google.com/file/d/1iCZAC-b9lOSB0BngH1FHhEbwVYdt8Nxo)
 
 ## Other Highlighted projects
 
