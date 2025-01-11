@@ -6,7 +6,7 @@
 
 This GibHub code repository for [AI and Business Rules for Excel Power Users](https://www.packtpub.com/product/ai-and-business-rule-engines-for-excel-power-users/9781804619544), published by Packt, [can be found here](https://github.com/PacktPublishing/AI-and-Business-Rules-for-Excel-Power-Users?tab=readme-ov-file)
 
-
+<br/><br/>
 <!-- Videos -->
 ## AI and Product Management Series
 
