@@ -19,9 +19,9 @@ Excerpts from talks on AI on Product Management and related topics. Click on ima
 <br/>
 
 ## Other AI Presentations
-[Public PDF - Scoring 1000 Irish Companies Cyber Readiness using AI and Natural Language Processing](https://drive.google.com/file/d/1iCZAC-b9lOSB0BngH1FHhEbwVYdt8Nxo)
+  * [Public PDF - Scoring 1000 Irish Companies Cyber Readiness using AI and Natural Language Processing](https://drive.google.com/file/d/1iCZAC-b9lOSB0BngH1FHhEbwVYdt8Nxo)
 
-<br/><br/>
+<br/>
 
 ## Highlighted projects
 
