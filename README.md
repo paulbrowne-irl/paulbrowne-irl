@@ -18,17 +18,17 @@ Excerpts from talks on AI on Product Management and related topics. Click on ima
 
 
 ## AI and Product Management Series
-[Link to presentation](https://drive.google.com/file/d/1iCZAC-b9lOSB0BngH1FHhEbwVYdt8Nxo)
+[Public PDF - Scoring 1000 Irish Companies Cyber Readiness using AI and Natural Language Processing](https://drive.google.com/file/d/1iCZAC-b9lOSB0BngH1FHhEbwVYdt8Nxo)
 
-## Other Highlighted projects
+## Highlighted projects
 
-Click on the _Pinned Projects_ below to view more details.
+Click on the _Pinned_ Projects below to view more details.
 <ul>
-<li>Packt Publishing - the AI and Business Rules for Excel examples to support the most recent book.</li>
-<li>Red Piranha - AI for financial decision making (e.g. loans or buisness grant applications), the focus of the first book.</li>
-<li>AI Emails and Documents - automatic drafting of emails for a helpdesk (e.g. on Cyber grants)</li>
-<li>Smart Document Analysis - scoring of thousands of clients based on hundreds of thousands of documents (e.g. for Cyber Maturity - see above presentation).</li>
-<li>EAR Mailbox - scripts for extracting data and statistic from a shared enterprise mailbox (e.g. respond to client client queries)</li>
+<li>**Packt Publishing** - the AI and Business Rules for Excel examples to support the most recent book.</li>
+<li>**Red Piranha** - AI for financial decision making (e.g. loans or buisness grant applications), the focus of the first book.</li>
+<li>**AI Emails and Documents** - automatic drafting of emails for a helpdesk (e.g. on Cyber grants)</li>
+<li>**Smart Document Analysis** - scoring of thousands of clients based on hundreds of thousands of documents (e.g. for Cyber Maturity - see above presentation).</li>
+<li>**EAR Mailbox** - scripts for extracting data and statistic from a shared enterprise mailbox (e.g. respond to client client queries)</li>
   
 </ul>
 
