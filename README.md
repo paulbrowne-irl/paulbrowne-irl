@@ -17,11 +17,12 @@ Excerpts from talks on AI on Product Management and related topics. Click on ima
 | [![Watch the video - part 1](video_thumbnails/Thumbnail_TUDublin_Product_Management_1_AI_Intro_Bio_small.png)](https://drive.google.com/uc?id=10ycGZyYs767KSJoyBVNpscTn7o_-l8wa)  | [![Watch the video - part 2](video_thumbnails/Thumbnail_TUDublin_Product_Management_2_AI_and_Product_Management_small.png)](https://drive.google.com/file/d/11-bg-eNnv27FOWT6UY4ZX9E_sN-bVUro)  | [![Watch the video - part 3](video_thumbnails/Thumbnail_TUDublin_Product_Management_3_Practical_Example_Intro_small.png)](https://drive.google.com/file/d/1100avI5N7NGd7vnuypUKKOyWqUvIkn6g )   | [![Watch the video - part 4](video_thumbnails/Thumbnail_TUDublin_Product_Management_4_Practical_Example_Demo_small.png)](https://drive.google.com/file/d/114Y0z8BkjQbEb9GeKOkBH_OLWkzKvsv2)  |  [![Watch the video - part 5](video_thumbnails/Thumbnail_TUDublin_Product_Management_5_Takewaways_small.png)](https://drive.google.com/file/d/10xxVwDnjC40nbvhZ8CrSvhK5DJmUEI9H) |
 
 
-
+## AI and Product Management Series
+[Link to presentation](https://drive.google.com/file/d/14mwRd_bD6VsBBcOV8CO2dnSPU250uBL5)
 
 ## Other Highlighted projects
 
-Some Other Highlighted Projects
+Click on the _Pinned Projects_ below to view more details.
 <ul>
 <li>Packt Publishing - the AI and Business Rules for Excel examples to support the most recent book.</li>
 <li>Red Piranha - AI for financial decision making (e.g. loans or buisness grant applications), the focus of the first book.</li>
