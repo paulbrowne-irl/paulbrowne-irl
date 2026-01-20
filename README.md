@@ -22,8 +22,7 @@ Excerpts from talks on AI on Product Management and related topics. Click on ima
 Source code and more information https://github.com/paulbrowne-irl/Auto-generate_Business_Rules/
 
 Walk through on Video
-[![100% accurate AI using Business Rules (Spec Driven Development)](https://img.youtube.com/vi/RdMyVLysxos/maxresdefault.jpg)](https://www.youtube.com/watch?v=RdMyVLysxos)
-
+<A href="https://www.youtube.com/watch?v=RdMyVLysxos"><img src="https://img.youtube.com/vi/RdMyVLysxos/maxresdefault.jpg" width="400"></A>
 
 <br/>
 
