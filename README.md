@@ -18,6 +18,15 @@ Excerpts from talks on AI on Product Management and related topics. Click on ima
 
 <br/>
 
+## Video Walk through - Spec Driven Development, 100% accurate AI using Business rules
+Source code and more information https://github.com/paulbrowne-irl/Auto-generate_Business_Rules/
+
+Walk through on Video
+[![100% accurate AI using Business Rules (Spec Driven Development)](https://img.youtube.com/vi/RdMyVLysxos/maxresdefault.jpg)](https://www.youtube.com/watch?v=RdMyVLysxos)
+
+
+<br/>
+
 ## Other AI Presentations
   * [Public PDF - Scoring 1000 Irish Companies Cyber Readiness using AI and Natural Language Processing](https://drive.google.com/file/d/1iCZAC-b9lOSB0BngH1FHhEbwVYdt8Nxo)
 
