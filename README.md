@@ -34,9 +34,9 @@ Walk through on Video (opens in YouTube)<br/>
 ## Highlighted projects
 
 Click on the _Pinned_ Projects in the section below to view more details.
-  * __Packt Publishing__ - the AI and Business Rules for Excel examples to support the most recent book.
   * __Red Piranha__ - AI for financial decision making (e.g. loans or buisness grant applications), the focus of the first book.</li>
   * __AI Emails and Documents__ - automatic drafting of emails for a helpdesk (e.g. on Cyber grants)</li>
   * __Smart Document Analysis__ - scoring of thousands of clients based on hundreds of thousands of documents (e.g. for Cyber Maturity - see above presentation).
   *  __EAR Mailbox__ - scripts for extracting data and statistic from a shared enterprise mailbox (e.g. respond to client client queries)
-  
+  * __Redact_anonymise_documents__ - Public version of scripts to anonmyise personal and company info from a folder of word and pdf docs.
+ 
