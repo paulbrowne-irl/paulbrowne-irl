@@ -27,7 +27,7 @@ Walk through on Video (opens in YouTube)<br/>
 <br/>
 
 ## Other AI Presentations
-  * [Public PDF - Scoring 1000 Irish Companies Cyber Readiness using AI and Natural Language Processing](https://drive.google.com/file/d/1iCZAC-b9lOSB0BngH1FHhEbwVYdt8Nxo) ![Scoring image](images/scoring.jpg)
+  * [Public PDF - Scoring 1000 Irish Companies Cyber Readiness using AI and Natural Language Processing](https://drive.google.com/file/d/1iCZAC-b9lOSB0BngH1FHhEbwVYdt8Nxo) ![Scoring image](images/scoring.png)
 
 <br/>
 
